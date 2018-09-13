@@ -1,1 +1,2 @@
 small text file2
+some new changes GH text file2
