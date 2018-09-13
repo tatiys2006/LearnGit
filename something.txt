@@ -1,1 +1,1 @@
-text file2
+small text file2
